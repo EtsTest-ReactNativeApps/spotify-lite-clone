@@ -60,7 +60,7 @@ iOS
 ## Development
 
 ```bash
-# Dependencies
+#Install Dependencies
 yarn install
 
 # iOS only
